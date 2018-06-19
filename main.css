@@ -14,21 +14,25 @@ div {
 }
 
 #orange {
-  background-color: blue;
+  background-color: orange;
 }
 
 #yellow {
-  background-color: blue;
+  background-color: yellow;
 }
 
 #green {
-  background-color: blue;
+  background-color: green;
 }
 
 #blue {
-  background-color: blue;
+  background-color:  blue;
 }
 
 #indigo {
-  background-color: blue;
+  background-color: indigo;
+}
+
+#violet {
+  background-color: violet;
 }
